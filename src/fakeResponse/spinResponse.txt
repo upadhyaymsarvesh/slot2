@@ -1,0 +1,120 @@
+{
+  "gamemessage": {
+    "msgdata": {
+      "-reqName": "SpinReq",
+      "bet": {
+        "-creditValue": "0.01",
+        "-betMultiplier": "1",
+        "-self-closing": "true"
+      },
+      "rtpLevel": "RTP_94",
+      "state": {
+        "-current": "INITIAL",
+        "-next": "DONE",
+        "-self-closing": "true"
+      },
+      "featureData": {
+        "featureReel": "10,8,5,8,4",
+        "expand": "0,0,0,0,0"
+      },
+      "mainSpinCreditsWon": "30",
+      "freeSpinCreditsWon": "0",
+      "totalCreditsWon": "30",
+      "spinResponse": {
+        "reels": {
+          "reel": [
+            {
+              "-id": "1",
+              "-icons": "7,8,4",
+              "#text": "7"
+            },
+            {
+              "-id": "2",
+              "-icons": "7,4,6",
+              "#text": "17"
+            },
+            {
+              "-id": "3",
+              "-icons": "7,2,11",
+              "#text": "17"
+            },
+            {
+              "-id": "4",
+              "-icons": "1,6,9",
+              "#text": "0"
+            },
+            {
+              "-id": "5",
+              "-icons": "6,9,2",
+              "#text": "40"
+            }
+          ]
+        },
+        "wreels": {
+          "reel": [
+            {
+              "-id": "1",
+              "-icons": "7,8,4",
+              "#text": "7"
+            },
+            {
+              "-id": "2",
+              "-icons": "7,4,6",
+              "#text": "17"
+            },
+            {
+              "-id": "3",
+              "-icons": "7,2,11",
+              "#text": "17"
+            },
+            {
+              "-id": "4",
+              "-icons": "1,6,9",
+              "#text": "0"
+            },
+            {
+              "-id": "5",
+              "-icons": "6,9,2",
+              "#text": "40"
+            }
+          ]
+        },
+        "lines": {
+          "-won": "30",
+          "line": [
+            {
+              "-id": "2",
+              "-icon": "KING",
+              "-numIcons": "3",
+              "-positions": "1,1;2,1;3,1",
+              "-multiplier": "1",
+              "-won": "15",
+              "-self-closing": "true"
+            },
+            {
+              "-id": "33",
+              "-icon": "KING",
+              "-numIcons": "3",
+              "-positions": "1,1;2,1;3,1",
+              "-multiplier": "1",
+              "-won": "15",
+              "-self-closing": "true"
+            }
+          ]
+        }
+      },
+      "finalWinnings": {
+        "creditsWon": "30",
+        "creditsWonOnBaseSpin": "30",
+        "creditsWonOnFreeSpin": "0",
+        "creditsWagered": "40"
+      },
+      "results": {
+        "-wagered": "0.40",
+        "-won": "0.30",
+        "-net": "-0.10",
+        "-self-closing": "true"
+      }
+    }
+  }
+}
